@@ -1,6 +1,7 @@
 {
-  "name": "ng-mocks",
-  "private": true,
+  "name": "ng-mocks-iliad",
+  "version": "15.0.4",
+  "private": false,
   "scripts": {
     "npm": "npm",
     "release": "export $(cat .env) && semantic-release",
@@ -219,16 +220,16 @@
     "prepare": "husky"
   },
   "devDependencies": {
-    "@angular-eslint/eslint-plugin": "18.3.1",
-    "@angular-eslint/eslint-plugin-template": "18.3.1",
-    "@angular-eslint/template-parser": "18.3.1",
-    "@angular/animations": "18.2.13",
-    "@angular/common": "18.2.13",
-    "@angular/core": "18.2.13",
-    "@angular/forms": "18.2.13",
-    "@angular/platform-browser": "18.2.13",
-    "@angular/platform-browser-dynamic": "18.2.13",
-    "@angular/router": "18.2.13",
+    "@angular-eslint/eslint-plugin": "19.0.2",
+    "@angular-eslint/eslint-plugin-template": "19.0.2",
+    "@angular-eslint/template-parser": "19.0.2",
+    "@angular/animations": "19.0.6",
+    "@angular/common": "19.0.6",
+    "@angular/core": "19.0.6",
+    "@angular/forms": "19.0.6",
+    "@angular/platform-browser": "19.0.6",
+    "@angular/platform-browser-dynamic": "19.0.6",
+    "@angular/router": "19.0.6",
     "@commitlint/cli": "19.6.1",
     "@commitlint/config-conventional": "19.6.0",
     "@semantic-release/changelog": "6.0.3",
@@ -287,7 +288,7 @@
     "typescript": "5.7.3",
     "webpack": "5.97.1",
     "webpack-cli": "6.0.1",
-    "zone.js": "0.14.10"
+    "zone.js": "0.15.0"
   },
   "engines": {
     "npm": "11.0.0"

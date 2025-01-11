@@ -7,6 +7,8 @@
 
 `ng-mocks` facilitates **Angular testing** and helps to:
 
+# For of helhelp-me-mom/ng-mocks
+
 - **mock Components**, Directives, Pipes, Modules, Services and Tokens
 - reduce boilerplate in tests
 - access declarations via simple interface
@@ -15,6 +17,7 @@ The current version of the library **has been tested** and **can be used** with:
 
 | Angular | ng-mocks | Jasmine | Jest | Ivy |
 | ------: | :------: | :-----: | :--: | :-: |
+|      19 |  latest  |   yes   | yes  | yes |
 |      18 |  latest  |   yes   | yes  | yes |
 |      17 |  latest  |   yes   | yes  | yes |
 |      16 |  latest  |   yes   | yes  | yes |
